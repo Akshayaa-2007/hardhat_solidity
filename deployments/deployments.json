@@ -1,0 +1,13 @@
+{
+  "deployments": [
+    {
+      "contract": "Akshayaa",
+      "network": "sepolia",
+      "address": "0xCd1109d78030Ff67703668AF2366079e6aE61f9A",
+      "admin": "0x74147D0dc194fB1940Fa9F010c09574d2E9443dC",
+      "transactionHash": "0xe07ceb0ebd6bc0e9f9ce13c419b11c87bc01d2c1b740b143ad03460df297644b",
+      "blockNumber": 11853157,
+      "deployedAt": "2026-10-06T03:15:50.885Z"
+    }
+  ]
+}
